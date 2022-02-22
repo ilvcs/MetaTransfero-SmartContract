@@ -1,5 +1,5 @@
-# Smart contract part for the Meta Transfero app
+# Smart contracts for Meta ransfero app
 
-Used Hardhat and Solidity
-Default Networl Rinkeby
+#### Used Hardhat and Solidity
+#### Default Network is  Rinkeby
 
